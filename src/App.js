@@ -3,7 +3,6 @@ import { Route, Switch } from 'react-router-dom';
 import { BrowserRouter as Router } from 'react-router-dom';
 import Landing from './components/Landing';
 import Signup from './components/Signup.jsx';
-import logo from './logo.svg';
 import './App.css';
 
 
