@@ -19,7 +19,14 @@ const routes = [
     content: () => (
         <Signup />
     )   
+  },
+  {
+    path: '',
+    content: () => (
+         <Landing />
+    )
   }
+
 ];
 
 class App extends Component {
