@@ -1,5 +1,4 @@
-The is a standalone showcase component for USTART
+The is a standalone showcase component boilerplate
 
 
-
-USTART VIP PROJECT: Mar 16
+VIP PROJECT: Mar 16
